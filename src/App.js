@@ -1,11 +1,13 @@
 
 import './App.css';
+import BackgroundAnimate from './BackgroundAnimate';
 import HomePage from './pages/HomePage';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <HomePage />
+      <BackgroundAnimate />
     </div>
   );
 }
