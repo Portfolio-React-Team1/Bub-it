@@ -158,7 +158,7 @@ undefined
   left: 0;
   margin: 0;
   padding: 0;
-  background: burlywood;
+  background-image: url(./assets/images.png);
   overflow: hidden;
   z-index: -1;
 }
