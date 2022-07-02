@@ -23,7 +23,7 @@ const InputShortener = () => {
             exitDimmer={setModal}
             zIndex={1}
             blur={0.5}
-            />
+            /> 
         </div>
     )
 }
