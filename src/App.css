@@ -159,8 +159,8 @@ undefined
   margin: 0;
   padding: 0;
   background-repeat: no-repeat;
-  background-size: auto;
-  background-image: url(./assets/images.png);
+  background-size: cover;
+  background-image: url(./assets/image2.jpg);
   overflow: hidden;
   z-index: -1;
 }
